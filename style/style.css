@@ -572,53 +572,7 @@ main {
   line-height: 1.6;
 }
 
-.testimonials {
-  margin-bottom: 30px;
-}
 
-.testimonials-title {
-  margin-bottom: 20px;
-}
-
-.testimonials-list {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 15px;
-  margin: 0 -15px;
-  padding: 25px 15px;
-  padding-bottom: 35px;
-}
-
-.testimonials-item {
-  min-width: 100%;
-}
-
-.testimonials-avatar-box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(15px, -25px);
-  background: var(--bg-gradient-onyx);
-  border-radius: 14px;
-  box-shadow: var(--shadow-1);
-}
-
-.testimonials-item-title {
-  margin-bottom: 7px;
-}
-
-.testimonials-text {
-  color: var(--light-gray);
-  font-size: var(--fs-6);
-  font-weight: var(--fw-300);
-  line-height: 1.6;
-  display: -webkit-box;
-  line-clamp: 4;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
 
 .modal-container {
   position: fixed;
@@ -834,17 +788,11 @@ main {
 }
 
 .timeline-text {
-  width: 450px;
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
 
-.timeline-text1 {
-  color: var(--light-gray);
-  font-weight: var(--fw-300);
-  line-height: 1.6;
-}
 
 .skills-title {
   margin-bottom: 20px;
